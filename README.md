@@ -1,5 +1,5 @@
 
-# VHR-GSIS: Very High-Resolution Informal Settlement Mapping Dataset
+# A Very High-Resolution Dataset of Informal Settlements in 37 Global South Cities (2010–2025)
 
 This repository provides the code and project-specific scripts used for producing the **VHR-GSIS** dataset: a very-high-resolution informal-settlement mapping product for 37 Global South cities in 2010 and 2025.
 
